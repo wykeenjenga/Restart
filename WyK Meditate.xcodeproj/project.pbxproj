@@ -13,15 +13,35 @@
 		CEB252E22750DDA500BDFE58 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB252D02750DDA300BDFE58 /* ContentView.swift */; };
 		CEB252E32750DDA500BDFE58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEB252D12750DDA500BDFE58 /* Assets.xcassets */; };
 		CEB252E42750DDA500BDFE58 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEB252D12750DDA500BDFE58 /* Assets.xcassets */; };
+		CEB252EF2750DED100BDFE58 /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEB252ED2750DED100BDFE58 /* chimeup.mp3 */; };
+		CEB252F02750DED100BDFE58 /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = CEB252ED2750DED100BDFE58 /* chimeup.mp3 */; };
+		CEB252F12750DED100BDFE58 /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = CEB252EE2750DED100BDFE58 /* success.m4a */; };
+		CEB252F22750DED100BDFE58 /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = CEB252EE2750DED100BDFE58 /* success.m4a */; };
+		CEB252F92750E32B00BDFE58 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB252F82750E32B00BDFE58 /* OnboardingView.swift */; };
+		CEB252FA2750E32B00BDFE58 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB252F82750E32B00BDFE58 /* OnboardingView.swift */; };
+		CEB252FC2750E33800BDFE58 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB252FB2750E33800BDFE58 /* HomeView.swift */; };
+		CEB252FD2750E33800BDFE58 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB252FB2750E33800BDFE58 /* HomeView.swift */; };
+		CEB252FF2750FE3F00BDFE58 /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB252FE2750FE3F00BDFE58 /* CircleGroupView.swift */; };
+		CEB253012751222000BDFE58 /* AudioPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB253002751221F00BDFE58 /* AudioPlayer.swift */; };
+		CEFAAF9A275B489F0031FA9F /* Screens in Resources */ = {isa = PBXBuildFile; fileRef = CEFAAF99275B489E0031FA9F /* Screens */; };
+		CEFAAF9B275B489F0031FA9F /* Screens in Resources */ = {isa = PBXBuildFile; fileRef = CEFAAF99275B489E0031FA9F /* Screens */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CEB252CF2750DDA300BDFE58 /* RestartApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestartApp.swift; sourceTree = "<group>"; };
 		CEB252D02750DDA300BDFE58 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CEB252D12750DDA500BDFE58 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		CEB252D62750DDA500BDFE58 /* Restart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restart.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CEB252DC2750DDA500BDFE58 /* Restart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restart.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEB252D62750DDA500BDFE58 /* WyK Meditate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WyK Meditate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEB252DC2750DDA500BDFE58 /* WyK Meditate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WyK Meditate.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEB252DE2750DDA500BDFE58 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		CEB252ED2750DED100BDFE58 /* chimeup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chimeup.mp3; sourceTree = "<group>"; };
+		CEB252EE2750DED100BDFE58 /* success.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = success.m4a; sourceTree = "<group>"; };
+		CEB252F72750E2B800BDFE58 /* WyK Meditate--iOS--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "WyK Meditate--iOS--Info.plist"; sourceTree = "<group>"; };
+		CEB252F82750E32B00BDFE58 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		CEB252FB2750E33800BDFE58 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		CEB252FE2750FE3F00BDFE58 /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
+		CEB253002751221F00BDFE58 /* AudioPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioPlayer.swift; sourceTree = "<group>"; };
+		CEFAAF99275B489E0031FA9F /* Screens */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Screens; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +65,7 @@
 		CEB252C92750DDA300BDFE58 = {
 			isa = PBXGroup;
 			children = (
+				CEB252F72750E2B800BDFE58 /* WyK Meditate--iOS--Info.plist */,
 				CEB252CE2750DDA300BDFE58 /* Shared */,
 				CEB252DD2750DDA500BDFE58 /* macOS */,
 				CEB252D72750DDA500BDFE58 /* Products */,
@@ -54,8 +75,11 @@
 		CEB252CE2750DDA300BDFE58 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				CEB252F62750E16E00BDFE58 /* Util */,
+				CEB252F52750E14D00BDFE58 /* Views */,
+				CEB252F32750DF0000BDFE58 /* Sounds */,
 				CEB252CF2750DDA300BDFE58 /* RestartApp.swift */,
-				CEB252D02750DDA300BDFE58 /* ContentView.swift */,
+				CEB252F42750E12200BDFE58 /* Screens */,
 				CEB252D12750DDA500BDFE58 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -64,8 +88,8 @@
 		CEB252D72750DDA500BDFE58 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CEB252D62750DDA500BDFE58 /* Restart.app */,
-				CEB252DC2750DDA500BDFE58 /* Restart.app */,
+				CEB252D62750DDA500BDFE58 /* WyK Meditate.app */,
+				CEB252DC2750DDA500BDFE58 /* WyK Meditate.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,12 +102,48 @@
 			path = macOS;
 			sourceTree = "<group>";
 		};
+		CEB252F32750DF0000BDFE58 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				CEB252ED2750DED100BDFE58 /* chimeup.mp3 */,
+				CEB252EE2750DED100BDFE58 /* success.m4a */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		CEB252F42750E12200BDFE58 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				CEFAAF99275B489E0031FA9F /* Screens */,
+				CEB252D02750DDA300BDFE58 /* ContentView.swift */,
+				CEB252F82750E32B00BDFE58 /* OnboardingView.swift */,
+				CEB252FB2750E33800BDFE58 /* HomeView.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		CEB252F52750E14D00BDFE58 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CEB252FE2750FE3F00BDFE58 /* CircleGroupView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CEB252F62750E16E00BDFE58 /* Util */ = {
+			isa = PBXGroup;
+			children = (
+				CEB253002751221F00BDFE58 /* AudioPlayer.swift */,
+			);
+			path = Util;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CEB252D52750DDA500BDFE58 /* Restart (iOS) */ = {
+		CEB252D52750DDA500BDFE58 /* WyK Meditate (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CEB252E72750DDA500BDFE58 /* Build configuration list for PBXNativeTarget "Restart (iOS)" */;
+			buildConfigurationList = CEB252E72750DDA500BDFE58 /* Build configuration list for PBXNativeTarget "WyK Meditate (iOS)" */;
 			buildPhases = (
 				CEB252D22750DDA500BDFE58 /* Sources */,
 				CEB252D32750DDA500BDFE58 /* Frameworks */,
@@ -93,14 +153,14 @@
 			);
 			dependencies = (
 			);
-			name = "Restart (iOS)";
+			name = "WyK Meditate (iOS)";
 			productName = "Restart (iOS)";
-			productReference = CEB252D62750DDA500BDFE58 /* Restart.app */;
+			productReference = CEB252D62750DDA500BDFE58 /* WyK Meditate.app */;
 			productType = "com.apple.product-type.application";
 		};
-		CEB252DB2750DDA500BDFE58 /* Restart (macOS) */ = {
+		CEB252DB2750DDA500BDFE58 /* WyK Meditate (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CEB252EA2750DDA500BDFE58 /* Build configuration list for PBXNativeTarget "Restart (macOS)" */;
+			buildConfigurationList = CEB252EA2750DDA500BDFE58 /* Build configuration list for PBXNativeTarget "WyK Meditate (macOS)" */;
 			buildPhases = (
 				CEB252D82750DDA500BDFE58 /* Sources */,
 				CEB252D92750DDA500BDFE58 /* Frameworks */,
@@ -110,9 +170,9 @@
 			);
 			dependencies = (
 			);
-			name = "Restart (macOS)";
+			name = "WyK Meditate (macOS)";
 			productName = "Restart (macOS)";
-			productReference = CEB252DC2750DDA500BDFE58 /* Restart.app */;
+			productReference = CEB252DC2750DDA500BDFE58 /* WyK Meditate.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -133,7 +193,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CEB252CD2750DDA300BDFE58 /* Build configuration list for PBXProject "Restart" */;
+			buildConfigurationList = CEB252CD2750DDA300BDFE58 /* Build configuration list for PBXProject "WyK Meditate" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -146,8 +206,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CEB252D52750DDA500BDFE58 /* Restart (iOS) */,
-				CEB252DB2750DDA500BDFE58 /* Restart (macOS) */,
+				CEB252D52750DDA500BDFE58 /* WyK Meditate (iOS) */,
+				CEB252DB2750DDA500BDFE58 /* WyK Meditate (macOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -157,6 +217,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEB252EF2750DED100BDFE58 /* chimeup.mp3 in Resources */,
+				CEB252F12750DED100BDFE58 /* success.m4a in Resources */,
+				CEFAAF9A275B489F0031FA9F /* Screens in Resources */,
 				CEB252E32750DDA500BDFE58 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -165,6 +228,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEB252F02750DED100BDFE58 /* chimeup.mp3 in Resources */,
+				CEB252F22750DED100BDFE58 /* success.m4a in Resources */,
+				CEFAAF9B275B489F0031FA9F /* Screens in Resources */,
 				CEB252E42750DDA500BDFE58 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -176,8 +242,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEB252FF2750FE3F00BDFE58 /* CircleGroupView.swift in Sources */,
+				CEB252F92750E32B00BDFE58 /* OnboardingView.swift in Sources */,
+				CEB252FC2750E33800BDFE58 /* HomeView.swift in Sources */,
 				CEB252E12750DDA500BDFE58 /* ContentView.swift in Sources */,
 				CEB252DF2750DDA500BDFE58 /* RestartApp.swift in Sources */,
+				CEB253012751222000BDFE58 /* AudioPlayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -185,6 +255,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEB252FA2750E32B00BDFE58 /* OnboardingView.swift in Sources */,
+				CEB252FD2750E33800BDFE58 /* HomeView.swift in Sources */,
 				CEB252E22750DDA500BDFE58 /* ContentView.swift in Sources */,
 				CEB252E02750DDA500BDFE58 /* RestartApp.swift in Sources */,
 			);
@@ -314,11 +386,12 @@
 				DEVELOPMENT_TEAM = J69KB9AJDV;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "WyK Meditate--iOS--Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -326,7 +399,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.wylsoftsinc.Restart;
-				PRODUCT_NAME = Restart;
+				PRODUCT_NAME = "WyK Meditate";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -344,11 +417,12 @@
 				DEVELOPMENT_TEAM = J69KB9AJDV;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "WyK Meditate--iOS--Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -356,7 +430,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.wylsoftsinc.Restart;
-				PRODUCT_NAME = Restart;
+				PRODUCT_NAME = "WyK Meditate";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -386,7 +460,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.wylsoftsinc.Restart;
-				PRODUCT_NAME = Restart;
+				PRODUCT_NAME = "WyK Meditate";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -414,7 +488,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.wylsoftsinc.Restart;
-				PRODUCT_NAME = Restart;
+				PRODUCT_NAME = "WyK Meditate";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -424,7 +498,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CEB252CD2750DDA300BDFE58 /* Build configuration list for PBXProject "Restart" */ = {
+		CEB252CD2750DDA300BDFE58 /* Build configuration list for PBXProject "WyK Meditate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEB252E52750DDA500BDFE58 /* Debug */,
@@ -433,7 +507,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CEB252E72750DDA500BDFE58 /* Build configuration list for PBXNativeTarget "Restart (iOS)" */ = {
+		CEB252E72750DDA500BDFE58 /* Build configuration list for PBXNativeTarget "WyK Meditate (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEB252E82750DDA500BDFE58 /* Debug */,
@@ -442,7 +516,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CEB252EA2750DDA500BDFE58 /* Build configuration list for PBXNativeTarget "Restart (macOS)" */ = {
+		CEB252EA2750DDA500BDFE58 /* Build configuration list for PBXNativeTarget "WyK Meditate (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEB252EB2750DDA500BDFE58 /* Debug */,
